@@ -6,4 +6,4 @@ Let it be about [one of my blogs](https://ysfaran.github.io/blog/), general codi
 To do so just open a [new discussion](https://github.com/ysfaran/chat-with-me/discussions/new).
 This repo has no other use case.
 
-If you want to keep it more private feel free to <a href="mailto:yusuf.aran@outlook.com">send me an email</a>.
+If you want to keep it more private feel free to <a href="mailto:yusuf.aran@outlook.de">send me an email</a>.
